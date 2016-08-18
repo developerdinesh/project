@@ -1,0 +1,22 @@
+Theme Name:   Allurer
+File Name:    Changelog
+Tested up to: 4.1.2
+Stable tag:	  1.0.3
+
+== Changelog ==
+
+= 1.0.3 =
+* Added full derivative attribution to the Unconditional theme
+* Implemented security patch related to add_query_arg() 
+
+= 1.0.2 =
+* Removing the extra unused bg image from the theme.
+* Fixed INFO: Error on up/down arrows for CMB init file.
+* CSS adjustment for default view design aesthetics upon theme activation
+
+= 1.0.1 =
+* Fixed bug on widget select text not visible when placed in the footer widget are.
+* Minor CSS adjustments
+
+= 1.0.0 =
+Initial Release 

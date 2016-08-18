@@ -1,0 +1,15 @@
+.ui-button{
+    height: 90px;
+    padding-top: 10px;
+    margin: 2px 0;
+    width: 48%;
+}
+.ui-state-active img{
+    background: #fafafa none repeat scroll 0 0;
+    border: 2px solid #999;
+    color: #23282d;
+}
+#customize-control-accesspress_background_image_pattern img, .customize-control-radioimage img {
+    width: 40%;
+    padding:10px;
+}

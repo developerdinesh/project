@@ -1,0 +1,41 @@
+<style type="text/css">
+    .the-team{padding:30px 0 0;}
+    .the-team h4{}
+    .our-team{
+        display: block;
+        position: relative;
+    }
+    .our-team .slick-next,
+    .our-team .slick-prev {
+        top: 50%;
+        margin-top: -12px;
+    }
+    .our-team .slick-slide{
+        min-height: 200px;
+        width:100%;
+        float:left;
+        background-size:cover;
+        margin:0 10px;
+        background-position: center center;
+        background-repeat:no-repeat;
+    }
+</style>
+<section class="the-team">
+    <h4><?php the_field('team_title', 'option'); ?></h4>
+    <div class="our-team" >
+        <?php while(have_rows('team_repeater','option')):the_row(); ?>
+            <?php
+                $team_image = get_sub_field('team_image');
+            ?>
+            <div class="slick-slide" style="background-image:url('<?php echo $team_image; ?>');">
+                <div class="ak-container">
+                    <header class="entry-header">
+                        <!--<?php the_title('<h2 class="entry-title">', '</h2>'); ?>-->
+                        <h2  class="entry-title"><?php echo get_sub_field('team_name'); ?></h2>
+                    </header><!-- .entry-header -->
+                </div>
+            </div>
+        <?php endwhile; ?>
+    </div>
+    <a href="<?php the_field('team_button_link', 'option') ?>"><?php the_field('team_button_label', 'option'); ?></a>
+</section>

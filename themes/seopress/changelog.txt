@@ -1,0 +1,185 @@
+== Changelog ==
+
+= 1.3.8 =
+* Update: August 17, 2016
+* WP 4.6 tested
+
+= 1.3.7 =
+* Update: August 14, 2016
+* css fixed
+* template structure improved
+* video embedded improved
+
+= 1.3.6 =
+* Update: August 11, 2016
+* css fixed
+* page template improved
+
+= 1.3.5 =
+* Update: August 10, 2016
+* Menu css fixed
+* page template improved
+* new options added
+
+= 1.3.4 =
+* Update: August 08, 2016
+
+= 1.3.3 =
+* Update: August 03, 2016
+
+= 1.3.2 =
+* Update: August 02, 2016
+* New option: Post date view 'updated or publish'
+
+= 1.3.1 =
+* Update: August 01, 2016
+* Landing page issue fixed (sticky menu js file will not load for Landing page)
+
+= 1.3.0 =
+* Update: August 01, 2016
+* Sticky menu fixed
+
+= 1.2.9 =
+* Update: July 27, 2016
+* New feature: RTL support
+* Customize user interface improved (active callback, js var)
+* Small css issue fixed
+
+= 1.2.8 =
+* Update: July 21, 2016
+* New feature: Custom footer widgets
+* New feature: Custom page loading icon
+* New feature: Page template added for page builder
+* New feature: Landing page template added for page builder
+* Small css issue fixed
+
+= 1.2.7 =
+* Update: July 14, 2016
+* Fixed: sticky menu and css
+
+= 1.2.6 =
+* Update: July 13, 2016
+* Fixed: meta box if else condition
+
+= 1.2.5 =
+* Update: July 10, 2016
+* Fixed: Fatal error in some server
+
+= 1.2.4 =
+* Update: July 10, 2016
+* Fixed: Fatal error in some server
+
+= 1.2.3 =
+* Update: July 10, 2016
+* Fixed: Fatal error in some server
+
+= 1.2.2 =
+* Update: July 10, 2016
+* Fixed: Fatal error in some server
+
+= 1.2.1 =
+* Update: July 09, 2016
+* Fixed: Menu CSS
+
+= 1.2.0 =
+* Update: July 09, 2016
+* Fixed: Menu, Page Loader CSS
+
+= 1.1.9 =
+* Update: July 07, 2016
+* CSS issue fixed
+* Fixed: Display loading on page load
+* Modernizr.js removed, no need
+
+= 1.1.8 =
+* Update: July 07, 2016
+* CSS issue fixed on top right icons
+* Feature: Display loading on page load added
+* Modernizr.js added to detect js etc
+
+= 1.1.7 =
+* Update: July 06, 2016
+* Fatal error fixed on theme activation
+
+= 1.1.6 =
+* Update: July 06, 2016
+* Fatal error fixed on theme activation
+
+= 1.1.5 =
+* Update: July 04, 2016
+* Theme Tags Updated
+
+= 1.1.4 =
+* Update: July 03, 2016
+* Bugs fixed
+
+= 1.1.3 =
+* Update: June 27, 2016
+* Added new features
+
+= 1.1.2 =
+* Update: June 25, 2016
+* Added new features
+
+= 1.1.1 =
+* Update: June 25, 2016
+* Added new features
+
+= 1.1.0 =
+* Update: June 23, 2016
+* Added new features
+
+= 1.0.9 =
+* Update: June 09, 2016
+* Translatable issues fixed
+
+= 1.0.8 =
+* Update: June 09, 2016
+* Translatable issues fixed
+
+= 1.0.7 =
+* Update: May 26, 2016
+* Translatable issues fixed
+
+= 1.0.6 =
+* Update: May 26, 2016
+* Author URL and Licensing fixed
+* Core Functionality fixed
+* default header fixed
+* Scripts/Styles prefix fixed
+* Unused code removed
+* Escaping/Sanitizing fixed
+* Backwards Compatibility fixed
+* Core logo feature added
+* Image responsive feature added
+* Translations issues fixed
+
+= 1.0.5 =
+* Update: April 17, 2016
+* Translatable issues fixed
+
+= 1.0.4 =
+* Update: April 17, 2016
+* Licenses issue fixed
+* Translatable issues fixed
+
+= 1.0.3 =
+* Update: April 11, 2016
+* screenshot updated
+* 4 columns gallery support
+* Licenses file updated
+* Translatable issues fixed
+* Other bugs fixed
+
+= 1.0.2 =
+* Update: April 07, 2016
+* Bugs fixed
+
+= 1.0.1 =
+* Update: April 07, 2016
+* Bugs fixed
+
+= 1.0.0 =
+* Released: December 10, 2015
+
+Initial release
